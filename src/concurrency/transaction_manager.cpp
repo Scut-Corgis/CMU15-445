@@ -14,7 +14,6 @@
 
 #include <unordered_map>
 #include <unordered_set>
-
 #include "catalog/catalog.h"
 #include "storage/table/table_heap.h"
 
